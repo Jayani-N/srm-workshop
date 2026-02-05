@@ -1,6 +1,6 @@
 **Computing Technologies**
 
-B. Tech - Computer Science and Engineering
+B.Tech – Computer Science and Engineering
 
 Syllabi for Higher Semester (3 - 8) CSE Courses
 No Title Page No
